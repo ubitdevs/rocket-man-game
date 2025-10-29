@@ -4,8 +4,6 @@
 A Jetpack Joyride clone in **pygame**.\
 This game was made for **learning purpose only**.
 
-[Demo video (pt-BR)](https://www.youtube.com/watch?v=AGmhM9LWP6g)
-
 <br/>
 
 ***
@@ -60,20 +58,3 @@ This game was made for **learning purpose only**.
 4) Run main.py file using <b>python main.py</b> in terminal.
 
 <br/>
-
-## Credits
-
-Programming, GUI and logo by **GustavoPauli**. \
-https://github.com/Gustavo-Pauli
-
-Art mainly done by **DarkLava**. \
-https://scratch.mit.edu/users/DarkLava/
-
-New Athletic M54 font by **justme54s**. \
-https://www.dafont.com/new-athletic-m54.font
-
-Soundtrack by **dos88**. \
-https://dos88.itch.io/dos-88-music-library
-
-Go checkout the real **Jetpack Joyride**! \
-https://www.halfbrick.com/games/jetpack-joyride
